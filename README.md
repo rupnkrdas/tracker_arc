@@ -46,9 +46,9 @@ Insert gif or link to demo
 - The app crashes if the SIGN-IN button is pressed twice accidentally.
 ## Color Reference
 
-- ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `#607d8b`
-- ![#69f0ae](https://placehold.co/15x15/69f0ae/69f0ae.png) `#69f0ae`
-- ![#000000](https://placehold.co/15x15/000000/000000.png) `#000000`
+- ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `Primary Swatch Color: #607d8b`
+- ![#69f0ae](https://placehold.co/15x15/69f0ae/69f0ae.png) `Accent Color: #69f0ae`
+- ![#000000](https://placehold.co/15x15/000000/000000.png) `Background Color: #000000`
 
 
 
