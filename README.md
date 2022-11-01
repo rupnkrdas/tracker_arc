@@ -1,19 +1,15 @@
-
 # Tracker Arc
 
 A Habit-Tracking Application to assist users in keeping track of their daily habits.
 (created as a part of IRIS Code-In 107 App Dev Task).
 
-
 ## Demo
 
 ![Tracker Arc Demo](demo/demo.gif)
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Screenshots](images/ss.jpg)
 
 ## Implemented Features
 
@@ -23,35 +19,38 @@ A Habit-Tracking Application to assist users in keeping track of their daily hab
 - Option to reset user password using forgot password.
 - Cross platform.
 
-
 ## UI/UX Enhancements
 
 - Implemented glassmorphism in the overall user-interface.
 - Sliding actions to view more options for the habit tiles.
 - Added Haptic Feedback throughout the app.
+
 ## Planned Features
 
-- [ ]  Authentication using various services like Google, Facebook and Apple.
-- [ ]  Clicking the heat map tiles shows the corresponding day’s tasks.
-- [ ]  Notification feature to remind users of the pending tasks for the day.
-- [ ]  Personalised welcome message for the users once they register with the app through email.
-- [ ]  Monthly habit tracker report as a mailing service.
+- [ ] Authentication using various services like Google, Facebook and Apple.
+- [ ] Clicking the heat map tiles shows the corresponding day’s tasks.
+- [ ] Notification feature to remind users of the pending tasks for the day.
+- [ ] Personalised welcome message for the users once they register with the app through email.
+- [ ] Monthly habit tracker report as a mailing service.
 
 ## Planned UI/UX updates
 
-- Animations and sounds to the app based on user interaction.
-- Toggle light/dark mode.
+- [ ] Animations and sounds to the app based on user interaction.
+- [ ] Toggle light/dark mode.
+
 ## Known Bugs
 
 - The app crashes if the SIGN-IN button is pressed twice accidentally.
+
+## Operating System used
+
+- MacOS
+
 ## Color Reference
 
 - ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `Primary Swatch Color: #607d8b`
 - ![#69f0ae](https://placehold.co/15x15/69f0ae/69f0ae.png) `Accent Color: #69f0ae`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `Background Color: #000000`
-
-
-
 
 ## Run Locally
 
@@ -79,7 +78,6 @@ Run the app
   flutter run
 ```
 
-
 ## Used Dependencies
 
 - flutter_slidable: ^2.0.0
@@ -92,13 +90,11 @@ Run the app
 - firebase_auth: ^4.1.0
 - cloud_firestore: ^4.0.3
 - flutter_glow: ^0.2.0
+
 ## Authors
 
 - [@rupnkrdas](https://www.github.com/rupnkrdas)
 
-
 ## Feedback
 
 If you have any feedback, please reach out to us at rupnkr1512.das0007@gmail.com
-
-
