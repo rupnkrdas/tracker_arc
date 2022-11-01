@@ -7,7 +7,7 @@ A Habit-Tracking Application to assist users in keeping track of their daily hab
 
 ## Demo
 
-Insert gif or link to demo
+![Tracker Arc Demo](demo/demo.gif)
 
 
 ## Screenshots
