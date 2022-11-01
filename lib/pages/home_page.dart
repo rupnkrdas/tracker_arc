@@ -230,7 +230,7 @@ class _HomePageState extends State<HomePage> {
                 // startDate: _myBox.get("START_DATE"),
 
                 startDate: convertDateTimeToString(
-                    DateTime.now().subtract(const Duration(days: 90))),
+                    DateTime.now().subtract(const Duration(days: 30))),
               ),
 
               // list of habits
