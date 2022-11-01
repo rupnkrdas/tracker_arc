@@ -49,7 +49,8 @@ A Habit-Tracking Application to assist users in keeping track of their daily hab
 ## Color Reference
 
 - ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `Primary Swatch Color: #607d8b`
-- ![#69f0ae](https://placehold.co/15x15/69f0ae/69f0ae.png) `Accent Color: #69f0ae`
+- ![#69f0ae](https://placehold.co/15x15/69f0ae/69f0ae.png) `Primary Accent Color: #69f0ae`
+- ![#ff5252](https://placehold.co/15x15/ff5252/ff5252.png) `Secondary Accent Color: #ff5252`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `Background Color: #000000`
 
 ## Run Locally
