@@ -1,7 +1,6 @@
 # Tracker Arc
 
 A Habit-Tracking Application to assist users in keeping track of their daily habits.
-(created as a part of IRIS Code-In 107 App Dev Task).
 
 ## Demo
 
