@@ -97,4 +97,4 @@ Run the app
 
 ## Feedback
 
-If you have any feedback, please reach out to us at rupnkr1512.das0007@gmail.com
+If you have any feedback, please reach out to me at rupnkr1512.das0007@gmail.com
