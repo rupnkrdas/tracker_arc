@@ -52,32 +52,6 @@ A Habit-Tracking Application to assist users in keeping track of their daily hab
 - ![#ff5252](https://placehold.co/15x15/ff5252/ff5252.png) `Secondary Accent Color: #ff5252`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `Background Color: #000000`
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/rupnkrdas/IRIS_2022_Rupankar_Das_201ME148.git
-```
-
-Go to the project directory
-
-```bash
-  cd IRIS_2022_Rupankar_Das_201ME148
-```
-
-Install dependencies
-
-```bash
-  flutter pub get
-```
-
-Run the app
-
-```bash
-  flutter run
-```
-
 ## Used Dependencies
 
 - flutter_slidable: ^2.0.0
